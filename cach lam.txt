@@ -1,0 +1,9 @@
+Chia sẻ bộ sưu tập reg file chặn update features ( vẫn để update security ) 
+Các Pro biết rồi, có thể bỏ qua. Reg file này chỉ dành cho ae chưa biết, chưa rành. 
+Hệ điều hành : 
+Windows 10 1803- 21H2 các edition consumer not Enterprise or LTSB/LTSC
+Windows 11 21H2  edition consumer not Enterprise or LTSB/LTSC
+Cách sử dụng : 
+Tải về , giải nén ra, chọn file reg tương ứng với verison Windows đang chạy trên máy ( Start gõ winver enter sẽ thấy) 
+Không muốn chặn nữa, chạy file reg Undo cuối danh sách. ( Có thể sử dụng file undo reg này với Windows mod by Anhdv , do bạn ấy cũng chặn sẵn theo reg file này trong các bản Windows mod đã phát hành). 
+P/s: Sau khi cài xong hệ điều hành nên update 1 lần ( hoặc vài lần ) cho đầy đủ các driver, tính năng của hệ điều hành, rồi hãy chạy file reg, không là với một số dòng main mới, laptop mới sẽ không thể update driver hay các features đặc biệt qua Windows update only.
